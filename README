@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Sarp
 
-💻 **.NET Backend Developer**
-🧠 Specialized in **ASP.NET, N-Layered Architecture & PL/SQL**
-🚀 Passionate about building scalable systems and integrating database-driven logic
+💻 **.NET Backend Developer**  
+🧠 Specialized in **ASP.NET, N-Layered Architecture, REST API & PL/SQL**  
+🚀 Passionate about building scalable systems and integrating database-driven logic  
 
 ---
 
 ## 🧠 About Me
 
-* 🔹 Developing backend applications using **C# and ASP.NET MVC**
+* 🔹 Developing backend applications using **C# and ASP.NET MVC / ASP.NET Core**
+* 🔹 Designing and building **RESTful APIs**
 * 🔹 Experienced in **N-Layered Architecture & OOP principles**
 * 🔹 Strong background in **Oracle PL/SQL (Procedures, Functions, Triggers)**
+* 🔹 Integrating external services using **RapidAPI**
 * 🔹 Building structured and maintainable systems with clean code practices
 * 🔹 Interested in **AI-powered backend applications**
 
@@ -20,22 +22,28 @@
 
 **Backend**
 
-* C#, ASP.NET MVC
-* ASP.NET Core (learning & improving)
+* C#, ASP.NET MVC  
+* ASP.NET Core (learning & improving)  
+* RESTful API Development  
 
 **Database**
 
-* Oracle (PL/SQL)
-* SQL
+* Oracle (PL/SQL)  
+* SQL Server  
 
 **Architecture**
 
-* N-Layered Architecture
-* SOLID Principles
+* N-Layered Architecture  
+* SOLID Principles  
+
+**API & Integration**
+
+* REST API Design  
+* RapidAPI Integration  
 
 **AI / ML**
 
-* Python, TensorFlow, OpenCV
+* Python, TensorFlow, OpenCV  
 
 ---
 
@@ -63,27 +71,30 @@ AI-based image classification project for detecting plant diseases.
 
 ## 🔗 Backend Expertise
 
-* Designing **layered architectures** for scalable systems
-* Writing and integrating **PL/SQL procedures with application logic**
-* Managing data operations with structured query design
-* Building maintainable backend services
+* Designing **layered architectures** for scalable systems  
+* Developing and consuming **RESTful APIs**  
+* Integrating external services via **RapidAPI**  
+* Writing and integrating **PL/SQL procedures with application logic**  
+* Managing data operations with structured query design  
+* Building maintainable backend services  
 
 ---
 
 ## 🎯 Current Focus
 
-* 🔥 ASP.NET Core Web API
-* 🔥 AI integration into backend systems
-* 🔥 Clean Architecture & best practices
+* 🔥 ASP.NET Core Web API  
+* 🔥 REST API design & best practices  
+* 🔥 AI integration into backend systems  
+* 🔥 Clean Architecture  
 
 ---
 
 ## 📫 Contact
 
-* 📍 Istanbul, Türkiye
+* 📍 Istanbul, Türkiye  
 
 ---
 
 ## ⚡ Vision
 
-Building systems where **backend architecture and database logic work seamlessly together**.
+Building systems where **backend architecture, APIs, and database logic work seamlessly together**.
