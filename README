@@ -1,100 +1,69 @@
-# 👋 Hi, I'm Sarp
+# Hi, I'm Sarp Bıçakçı 👋
 
-💻 **.NET Backend Developer**  
-🧠 Specialized in **ASP.NET, N-Layered Architecture, REST API & PL/SQL**  
-🚀 Passionate about building scalable systems and integrating database-driven logic  
+Backend-focused Software Developer passionate about building scalable and maintainable applications using modern .NET technologies.
 
----
-
-## 🧠 About Me
-
-* 🔹 Developing backend applications using **C# and ASP.NET MVC / ASP.NET Core**
-* 🔹 Designing and building **RESTful APIs**
-* 🔹 Experienced in **N-Layered Architecture & OOP principles**
-* 🔹 Strong background in **Oracle PL/SQL (Procedures, Functions, Triggers)**
-* 🔹 Integrating external services using **RapidAPI**
-* 🔹 Building structured and maintainable systems with clean code practices
-* 🔹 Interested in **AI-powered backend applications**
+- 🔹 Experienced with Oracle, PL/SQL and SQL optimization
+- 🔹 Building backend applications with ASP.NET Core and Web API
+- 🔹 Interested in Microservices Architecture and Distributed Systems
+- 🔹 Working with technologies like Docker, RabbitMQ, Redis, MongoDB and JWT Authentication
+- 🔹 Passionate about software architecture, clean code and performance-oriented development
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+### Backend
+- C#
+- ASP.NET Core MVC
+- ASP.NET Core Web API
+- PL/SQL
+- SQL
 
-* C#, ASP.NET MVC  
-* ASP.NET Core (learning & improving)  
-* RESTful API Development  
+### Database
+- Oracle
+- Microsoft SQL Server
+- MongoDB
+- PostgreSQL
 
-**Database**
+### Architecture & Concepts
+- N-Layer Architecture
+- Onion Architecture
+- REST API Development
+- Dependency Injection
+- DTO Pattern
+- CQRS
+- Microservices Architecture
 
-* Oracle (PL/SQL)  
-* SQL Server  
-
-**Architecture**
-
-* N-Layered Architecture  
-* SOLID Principles  
-
-**API & Integration**
-
-* REST API Design  
-* RapidAPI Integration  
-
-**AI / ML**
-
-* Python, TensorFlow, OpenCV  
+### Tools & Technologies
+- Entity Framework Core
+- Dapper
+- AutoMapper
+- FluentValidation
+- Swagger
+- RabbitMQ
+- Redis
+- Docker
+- Git & GitHub
+- Postman
+- Visual Studio
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 CSharp N-Layered Architecture
+### 📌 HotelManagement.NLayerArchitecture
+ASP.NET Core based hotel management project developed with N-Layer Architecture principles.
 
-A layered ASP.NET MVC application demonstrating clean architecture, authentication, and CRUD operations.
+### 📌 FaceAntiSpoofing.CNN
+CNN-based face anti-spoofing and liveness detection system for real-time verification.
 
-👉 https://github.com/bsarp-bs/CSharp-NLayered-Architecture
-
----
-
-### 🔹 Face Liveness Detection (CNN)
-
-A deep learning project using CNN to detect real vs fake faces.
-
----
-
-### 🔹 Leaf Disease Detection
-
-AI-based image classification project for detecting plant diseases.
-
----
-
-## 🔗 Backend Expertise
-
-* Designing **layered architectures** for scalable systems  
-* Developing and consuming **RESTful APIs**  
-* Integrating external services via **RapidAPI**  
-* Writing and integrating **PL/SQL procedures with application logic**  
-* Managing data operations with structured query design  
-* Building maintainable backend services  
-
----
-
-## 🎯 Current Focus
-
-* 🔥 ASP.NET Core Web API  
-* 🔥 REST API design & best practices  
-* 🔥 AI integration into backend systems  
-* 🔥 Clean Architecture  
+### 📌 LeafDiseaseDetection.CNN
+Deep learning project for plant leaf disease detection and classification.
 
 ---
 
 ## 📫 Contact
 
-* 📍 Istanbul, Türkiye  
-
----
-
-## ⚡ Vision
-
-Building systems where **backend architecture, APIs, and database logic work seamlessly together**.
+- LinkedIn: www.linkedin.com/in/nejat-sarp-bicakci
+- GitHub: https://github.com/bsarp-bs
+- Email: bicakcisarp@gmail.com
