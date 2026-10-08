@@ -1,64 +1,55 @@
 # Hi, I'm Sarp Bıçakçı 👋
 
-Backend-focused Software Developer passionate about building scalable and maintainable applications using modern .NET technologies.
+Working with Python and Oracle on data analysis and machine learning.
+Three years of production experience building and querying database-backed
+systems, now applying it to data problems.
 
-- 🔹 Experienced with Oracle, PL/SQL and SQL optimization
-- 🔹 Building backend applications with ASP.NET Core and Web API
-- 🔹 Interested in Microservices Architecture and Distributed Systems
-- 🔹 Working with technologies like Docker, RabbitMQ, Redis, MongoDB and JWT Authentication
-- 🔹 Passionate about software architecture, clean code and performance-oriented development
+- 🔹 Data analysis and ML pipelines with Python, pandas and scikit-learn
+- 🔹 3+ years writing and optimising Oracle PL/SQL in production
+- 🔹 Comfortable across the whole path: pulling data out of a system, cleaning
+  it, modelling it, and reading the result honestly
+- 🔹 Backend background in .NET — three years shipping production applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-- C#
-- ASP.NET Core MVC
-- ASP.NET Core Web API
-- PL/SQL
-- SQL
+### Python & Data
+- Python
+- pandas, NumPy
+- scikit-learn
+- matplotlib, seaborn
+- Jupyter
 
-### Database
-- Oracle
+### Databases
+- Oracle — PL/SQL, query optimisation
 - Microsoft SQL Server
-- MongoDB
-- PostgreSQL
 
-### Architecture & Concepts
-- N-Layer Architecture
-- Onion Architecture
-- REST API Development
-- Dependency Injection
-- DTO Pattern
-- CQRS
-- Microservices Architecture
-
-### Tools & Technologies
-- Entity Framework Core
-- Dapper
-- AutoMapper
-- FluentValidation
-- Swagger
-- RabbitMQ
-- Redis
-- Docker
+### Tools
 - Git & GitHub
+- Docker
 - Postman
-- Visual Studio
+
+### Backend (.NET)
+C#, ASP.NET Core MVC / Web API, Entity Framework Core, REST APIs
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 HotelManagement.NLayerArchitecture
-ASP.NET Core based hotel management project developed with N-Layer Architecture principles.
+### 📌 [Olist Product Repeat-Sale Analysis](https://github.com/bsarp-bs/olist-repeat-sale-analysis)
+Binary classification on 32,729 e-commerce products. Found and removed a target
+leak that had inflated model AUC from 0.63 to 0.80.
+`Python` `pandas` `scikit-learn`
 
 ### 📌 FaceAntiSpoofing.CNN
-CNN-based face anti-spoofing and liveness detection system for real-time verification.
+CNN-based face anti-spoofing and liveness detection for real-time verification.
 
 ### 📌 LeafDiseaseDetection.CNN
 Deep learning project for plant leaf disease detection and classification.
+
+### 📌 HotelManagement.NLayerArchitecture
+ASP.NET Core hotel management system.
 
 ---
 
